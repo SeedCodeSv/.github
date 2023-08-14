@@ -6,8 +6,8 @@
 <p align='center'>
  <img  src="https://i.pinimg.com/originals/13/28/1b/13281bc86063aa5c9eb2159cde5c9c2c.png">
 </p>
-<p align='center'>
- Our mission
 
+# Our mission
+<p align='center'>
 Design and develop quality software, focused on customer needs. We exceed expectations with customized solutions that drive efficiency and business growth. We establish relationships based on trust, collaboration and commitment to excellence.
 </p>
