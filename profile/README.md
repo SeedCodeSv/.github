@@ -4,6 +4,6 @@
  SeedCodeSV, a leading technology services company, provides innovative and customized solutions to fuel business growth. With a highly trained team, we focus on delivering exceptional results and meeting the needs of our clients.
 </p>
 <p align='center'>
- <img  src="https://pin.it/3mfp8Wa">
+ <img  src="https://i.pinimg.com/originals/13/28/1b/13281bc86063aa5c9eb2159cde5c9c2c.png">
 </p>
 
