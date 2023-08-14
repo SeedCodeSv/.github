@@ -16,3 +16,12 @@ Design and develop quality software, focused on customer needs. We exceed expect
 <p align='center'>
 To be recognized as leaders in software development, providing innovative technological solutions that drive the success of our clients in the digital world.
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeedCodeSv&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<!-- Reemplaza {username} con tu nombre de usuario de GitHub -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeedCodeSv&layout=compact&theme=radical" alt="Top Languages" />
+</div>
